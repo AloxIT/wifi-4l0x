@@ -1,4 +1,6 @@
 # wifi-4l0x
-wifi-4l0x // access point and captive portal
+wifi-4l0x // 
+You can create an access point, a captive portal, capture network packets and change MAC address.
 
-![imagen](https://github.com/AloxIT/wifi-4l0x/assets/129053280/8c794292-8cb1-4c92-b2fa-79fd109af31d)
+
+![main-menu](https://github.com/AloxIT/wifi-4l0x/assets/129053280/6e36be8d-6f76-4649-b88c-a0152195adbf)
